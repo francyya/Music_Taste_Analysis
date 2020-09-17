@@ -13,5 +13,5 @@ The features used for the analysis can be found [here](https://developer.spotify
 - `time_signature`: An estimated overalltime of a track. The time signature(meter) is a notational convention to specify how many beats in a bar(a measure).
 - `acounsticness`: A confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic. The distribution of values for this feature look like this:
 
-![Image](pc1.png)
+![Image](.\pic\pc1.png)
 
