@@ -30,7 +30,7 @@ The features used for the analysis can be found [here](https://developer.spotify
 - `tempo`: The overall estimated tempo of a track in beats per minute(BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration. The distribution of values for this  feature look like this:
 ![Image](./pic/p9.png)
 
-- The usual music genres are: > name
+- The usual music genres are: `acoustic,afrobeat,alt=rock,alternative,ambient,anime,black-metal,bluegrass,blues,bossanova,brazil,breakbeat,british,cantopop,chicago-house,children,chill,classical,club,comedy,country,dance,dancehall,death-metal,deep-mouse,detroit-techno,disco,disney,drum-and-bass,dub,dubstep,edm,electro,electronic,emo,folk,forro,french,funk,garage,german,gospel,goth,grindcore,groove,grunge,guitar,happy,hard-rock,hardcore,hardstyle,heavy-metal,hip-hop,holidays,honky-tonk,house,idm,indian,indie,industrial,iranian,j-dance,j-idol,j-pop,j-rock,jazz,k-pop,kids,latin,latino,malay,mandopop,metal,metal-misc,metalcore,minimal-techno,movies,mpb,new-age,new-release,opera,pagode,party,philippines-opm,piano,pop,pop-film,post-dubstep,power=pop...`
 
 - Have Fun!
 
