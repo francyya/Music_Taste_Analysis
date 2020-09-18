@@ -30,5 +30,7 @@ The features used for the analysis can be found [here](https://developer.spotify
 - `tempo`: The overall estimated tempo of a track in beats per minute(BPM). In musical terminology, tempo is the speed or pace of a given piece and derives directly from the average beat duration. The distribution of values for this  feature look like this:
 ![Image](./pic/p9.png)
 
+- The usual music genres are: > name
+
 - Have Fun!
 
